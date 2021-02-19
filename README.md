@@ -6,9 +6,10 @@ In this project I use the Jupyter Notebooks to learn how to scripe difertent web
 * latam airlines
 * platzi
 
-to extract diferent interesting information like:
+to extract diferent and interesting information like:
 
 * Videos
 * prices
 * dates
 
+using mainly selenium and python
