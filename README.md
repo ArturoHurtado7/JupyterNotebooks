@@ -1,15 +1,16 @@
-# JupyterNotebooks
-In this project I use the Jupyter Notebooks to learn how to scripe difertent websites like:
+Jupyter Notebooks
+
+In this project I use the Jupyter Notebooks to learn how to extract information from difertent remarkable websites like:
 
 * facebook
 * metrocuadrado
 * latam airlines
 * platzi
 
-to extract diferent and interesting information like:
+To extract diferent and interesting information like:
 
 * Videos
-* prices
-* dates
+* Prices
+* Dates
 
-using mainly selenium and python
+Using mainly selenium and python
