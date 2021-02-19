@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# datos que no van al repositorio
+videos/
+data/
+
+# VS Code
+.vscode/
